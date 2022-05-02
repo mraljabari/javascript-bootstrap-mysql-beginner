@@ -36,7 +36,7 @@ const db = mysql.createConnection({
 2. `touch server.js`
     create "file server.js"
 3. `node server.js`
-    running server if show alert "Server Ready...) then server is working
+    running server if show alert (Server Ready...) then server is working
 4. acces localhost:8000
     open browser and search link "localhost:8000" 
 5. `npm start`
