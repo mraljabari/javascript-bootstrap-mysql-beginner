@@ -1,6 +1,5 @@
 # javascript-bootstrap-mysql-beginner
-Simple program made with NodeJS, Bootstrap and Databases MySql
-
+Simple program made with NodeJS, Bootstrap and Databases MySql 
 
 ## Note
 Change Configuration on server.js to connect databases MySql
@@ -26,3 +25,8 @@ const db = mysql.createConnection({
 5. `node server.js`
     running server if show alert "Server Ready...) then server is working
 6. acces localhost:8000
+<hr><br>
+
+my referece to made this project [^note].
+[^note]:
+    DeaAfrizal [Go to](https://www.youtube.com/watch?v=JmwDuKzbkNA).
